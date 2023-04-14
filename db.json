@@ -1,0 +1,39 @@
+{
+  "Notify": [
+    {
+      "id": 1,
+      "tittle": "Cobro de cursos",
+      "description": "Debes $20.000."
+    },
+    {
+      "id": 2,
+      "tittle": "Pago de curso",
+      "description": "Pasgaste $55.000 en un curso."
+    },
+    {
+      "id": 3,
+      "tittle": "Inscripcion de cursos",
+      "description": "Te has inscrito oficialmente al curso"
+    },
+    {
+      "id": 4,
+      "tittle": "Cobro de cursos",
+      "description": "Debes $30.000"
+    },
+    {
+      "id": 5,
+      "tittle": "Cobro de cursos",
+      "description": "Debes $50.000"
+    },
+    {
+      "id": 6,
+      "tittle": "Primeros pasos",
+      "description": "Inscribite a un curso"
+    },
+    {
+      "id": 7,
+      "tittle": "Bienvenido",
+      "description": "Bienvenido a Inwar"
+    }
+  ]
+}
